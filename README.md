@@ -1,6 +1,6 @@
 ### Hello World ! 👋
 
-https://api.visitorbadge.io/api/visitors?path=akumar901&countColor=%23263759
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=akumar901&countColor=%23263759)](https://visitorbadge.io/status?path=akumar901)
 
 <!--
 **akumar901/akumar901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
