@@ -1,5 +1,8 @@
 ### Hello World ! 👋
 
+
+
+![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
 <!--
 **akumar901/akumar901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
